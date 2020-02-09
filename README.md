@@ -32,3 +32,7 @@ new lambda.RustFunction(this, 'MyFunction', {
 ```
 
 All other properties of `lambda.Function` are supported, see also the [AWS Lambda construct library](https://github.com/aws/aws-cdk/tree/master/packages/%40aws-cdk/aws-lambda).
+
+### Requirements
+
+Library uses [cross](https://github.com/rust-embedded/cross) for building Rust code
