@@ -4,6 +4,7 @@
 ---
 
 ![Stability: Experimental](https://img.shields.io/badge/stability-Experimental-important.svg?style=for-the-badge)
+![https://www.npmjs.com/package/aws-lambda-rust](https://img.shields.io/npm/v/aws-lambda-rust?style=for-the-badge)
 
 > **This is unofficial CDK library based on Amazon Lambda Node.js Library**
 ---
